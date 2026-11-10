@@ -1,0 +1,33 @@
+$TTL 3600
+@ SOA localhost. root.localhost. 2026111001 3600 600 86400 300
+  NS localhost.
+;
+; Title: Spotify video blocklist (RPZ)
+; Homepage: https://github.com/DocFraggle/spotify-video-blocklist
+; Entries: 25
+;
+canvaz.scdn.co CNAME .
+dailymix-images.scdn.co CNAME .
+eip-ntt.video-ak.cdn.spotify.com.akahost.net CNAME .
+i.scdn.co CNAME .
+image-cdn-ak.spotifycdn.com CNAME .
+image-scdn.cdn-gslb.spotify.com CNAME .
+mosaic.scdn.co CNAME .
+newjams-images.scdn.co CNAME .
+o.scdn.co CNAME .
+pickasso.spotifycdn.com CNAME .
+pl.scdn.co CNAME .
+region-eng-scdn.cdn-gslb.spotify.com CNAME .
+seed-mix-image.spotifycdn.com CNAME .
+thisis-images.spotifycdn.com CNAME .
+video-ak-cdn-spotify-com.akamaized.net CNAME .
+video-ak.cdn.spotify.com CNAME .
+video-ak.cdn.spotify.com.splitter-eip.akadns.net CNAME .
+video-akpcw-cdn-spotify-com.akamaized.net CNAME .
+video-akpcw.spotifycdn.com CNAME .
+video-akpcw.spotifycdn.com.edgesuite.net CNAME .
+video-cf.spotifycdn.com CNAME .
+video-fa-b.cdn.spotify.com CNAME .
+video-fa.cdn.spotify.com CNAME .
+video-fa.scdn.co CNAME .
+video4-ak.spotify.com CNAME .
